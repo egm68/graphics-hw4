@@ -1,0 +1,30 @@
+﻿  GL_Related.cpp
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\Simulation.h(104,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'GL_Related.cpp')
+  
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\Simulation.h(118,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'GL_Related.cpp')
+  
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\GL_Related.h(93,15): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+  (compiling source file 'GL_Related.cpp')
+  
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\GL_Related.h(433,20): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'GL_Related.cpp')
+  
+  Simulation.cpp
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\Simulation.h(104,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'Simulation.cpp')
+  
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\Simulation.h(118,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Simulation.cpp')
+  
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\Simulation.cpp(30,9): warning C4101: 's': unreferenced local variable
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\Simulation.cpp(165,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\Simulation.cpp(171,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\Simulation.cpp(177,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\Simulation.cpp(198,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\Simulation.cpp(201,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\Simulation.cpp(210,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\Simulation.cpp(211,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Project2.vcxproj -> C:\Users\jktho\OneDrive\Desktop\CG_4\Project2\x64\Debug\Project2.exe
